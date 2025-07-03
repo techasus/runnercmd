@@ -1,1 +1,1 @@
-start "" "C:\i got you.txt"
+start https://www.youtube.com
