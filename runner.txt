@@ -1,1 +1,1 @@
-calc
+start "" "%USERPROFILE%\Desktop\i got you.txt"
